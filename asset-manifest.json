@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/boxbox/static/css/main.f69bbf9a.chunk.css",
+    "main.js": "/boxbox/static/js/main.0ccecf70.chunk.js",
+    "main.js.map": "/boxbox/static/js/main.0ccecf70.chunk.js.map",
+    "runtime~main.js": "/boxbox/static/js/runtime~main.4e2a3bd3.js",
+    "runtime~main.js.map": "/boxbox/static/js/runtime~main.4e2a3bd3.js.map",
+    "static/js/2.76b1312b.chunk.js": "/boxbox/static/js/2.76b1312b.chunk.js",
+    "static/js/2.76b1312b.chunk.js.map": "/boxbox/static/js/2.76b1312b.chunk.js.map",
+    "index.html": "/boxbox/index.html",
+    "precache-manifest.db0150025aaeec887f11a2fd50dbf7bf.js": "/boxbox/precache-manifest.db0150025aaeec887f11a2fd50dbf7bf.js",
+    "service-worker.js": "/boxbox/service-worker.js",
+    "static/css/main.f69bbf9a.chunk.css.map": "/boxbox/static/css/main.f69bbf9a.chunk.css.map",
+    "static/media/boxbox3.png": "/boxbox/static/media/boxbox3.c22fd429.png"
+  }
+}
