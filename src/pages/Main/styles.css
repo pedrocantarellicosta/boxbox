@@ -1,0 +1,41 @@
+#main-container{
+    height: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#main-container form {
+    width: 300px;
+    margin-top:100px;
+    display: flex;
+    flex-direction: column;
+}
+
+#main-container form input{
+    height: 48px;
+    border: 1px solid #DDD;
+    border-radius: 4px;
+    font-size:16px;
+    padding: 0 20px;
+    margin-top:30px;
+}
+
+#main-container button{
+    height: 48px;
+    background: #dbb88e;
+    border-radius: 4px;
+    font-size:16px;
+    padding: 0 20px;
+    margin-top:5px;
+    font-weight: bold;
+    color:#FFF;
+    border:0;
+    cursor:pointer;
+    transition: 0.2s;
+
+}
+#main-container button:hover{
+   opacity: 0.5;
+}
