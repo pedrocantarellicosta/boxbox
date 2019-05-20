@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63bbba81831bc566c21235faeb5d631a",
+    "revision": "1d9e72415b9b2a410835ace9375843c3",
     "url": "/boxbox/index.html"
   },
   {
-    "revision": "ceb462ced17d8b8086d8",
+    "revision": "6885caa27a72c2aaf72e",
     "url": "/boxbox/static/css/main.f69bbf9a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/boxbox/static/js/2.76b1312b.chunk.js"
   },
   {
-    "revision": "ceb462ced17d8b8086d8",
-    "url": "/boxbox/static/js/main.0ccecf70.chunk.js"
+    "revision": "6885caa27a72c2aaf72e",
+    "url": "/boxbox/static/js/main.36994146.chunk.js"
   },
   {
     "revision": "a4b5d806e229e39fc386",
